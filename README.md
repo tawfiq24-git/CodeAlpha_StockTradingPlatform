@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an advanced Java console-based Stock Trading Platform developed as part of the CodeAlpha Java Programming Internship.
+This is an Java console-based Stock Trading Platform developed as part of the CodeAlpha Java Programming Internship.
 
 The application simulates stock market trading and allows users to manage virtual investments and portfolios.
 
